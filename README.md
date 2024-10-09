@@ -1,3 +1,3 @@
 # My_First_Repo
 
-Created my first repo!
+I created my first repo!
